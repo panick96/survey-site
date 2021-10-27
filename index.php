@@ -17,22 +17,22 @@
             <div class="row justify-content-center">
                 <div class="col-xs-12" id="welcome-statement">
                     <h1>Welcome to the BYU-I Support Center Survey!</h1>
-                    <p>Please fill out this quick survey to tell us about your experience with us. <b>1</b> being poor and <b>5</b> being great.</p>
+                    <p>Please fill out this quick survey to tell us about your experience with us.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class = col-xs-12>
                     <form class="feedback-form">
                         <div class="form-group">
-                            <div class="question-text"><p>1. How satisfied are you with the service you received?</p></div>
+                            <div class="question-text"><p>1. How happy are you with the service you received?</p></div>
                             <div class="radio-buttons">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio1" value="1">
-                                    <label class="form-check-label" for="question1Radio1">Very Unsatisfied</label>
+                                    <label class="form-check-label" for="question1Radio1">Very Unhappy</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio2" value="2">
-                                    <label class="form-check-label" for="question1Radio2">Unsatisfied</label>
+                                    <label class="form-check-label" for="question1Radio2">Unhappy</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio3" value="3">
@@ -40,11 +40,11 @@
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio4" value="4">
-                                    <label class="form-check-label" for="question1Radio4">Satisfied</label>
+                                    <label class="form-check-label" for="question1Radio4">Happy</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio5" value="5">
-                                    <label class="form-check-label" for="question1Radio5">Very Satisfied</label>
+                                    <label class="form-check-label" for="question1Radio5">Very Happy</label>
                                   </div>
                             </div>
                         </div>
