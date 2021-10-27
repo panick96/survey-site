@@ -24,28 +24,84 @@
                 <div class = col-xs-12>
                     <form class="feedback-form">
                         <div class="form-group">
-                            <div class="range-slider">
-                                <label for="question-1">How satisfied are you with the service you received? (1-5)</label>
-                                <input class="question-input" name="question-1" type="range" min="1" max="5" value="3" class="slider" id="question-1-slider">
-                                <output class="slider-output" id="question-1-output" name="questionValue" for="question">3</output>
+                            <div class="question-text"><p>1. How satisfied are you with the service you received?</p></div>
+                            <div class="radio-buttons">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio1" value="1">
+                                    <label class="form-check-label" for="question1Radio1">Very Unsatisfied</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio2" value="2">
+                                    <label class="form-check-label" for="question1Radio2">Unsatisfied</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio3" value="3">
+                                    <label class="form-check-label" for="question1Radio3">Neutral</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio4" value="4">
+                                    <label class="form-check-label" for="question1Radio4">Satisfied</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio5" value="5">
+                                    <label class="form-check-label" for="question1Radio5">Very Satisfied</label>
+                                  </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="range-slider">
-                                <label for="question-2">How likely are you to reccomend us to a friend? (1-5)</label>
-                                <input class="question-input" name="question-2" type="range" min="1" max="5" value="3" class="slider" id="question-2-slider">
-                                <output class="slider-output" id="question-2-output" name="questionValue" for="question">3</output>
+                            <div class="question-text"><p>2. How likely are you to reccomend us to a friend?</p></div>
+                            <div class="radio-buttons">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
+                                    <label class="form-check-label" for="question2Radio1">Very Unlikely</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio2" value="2">
+                                    <label class="form-check-label" for="question2Radio2">Unlikely</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio3" value="3">
+                                    <label class="form-check-label" for="question2Radio3">Neutral</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio4" value="4">
+                                    <label class="form-check-label" for="question2Radio4">Likely</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio5" value="5">
+                                    <label class="form-check-label" for="question2Radio5">Very Likely</label>
+                                  </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="range-slider">
-                                <label for="question-3">Did the BYU-I Center make it easy to solve your problem? (1-5)</label>
-                                <input class="question-input" name="question-3" type="range" min="1" max="5" value="3" class="slider" id="question-3-slider">
-                                <output class="slider-output" id="question-3-output" name="questionValue" for="question">3</output>
+                            <div class="question-text"><p>3. How easy was it to solve your problem with our help?</p></div>
+                            <div class="radio-buttons">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio1" value="1">
+                                    <label class="form-check-label" for="question3Radio1">Very Difficult</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio2" value="2">
+                                    <label class="form-check-label" for="question3Radio2">Difficult</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio3" value="3">
+                                    <label class="form-check-label" for="question3Radio3">Neutral</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio4" value="4">
+                                    <label class="form-check-label" for="question3Radio4">Easy</label>
+                                  </div>
+                                  <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio5" value="5">
+                                    <label class="form-check-label" for="question3Radio5">Very Easy</label>
+                                  </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="feedback">Any feedback you would like to give us?</label>
+                            <div class="feedback-label">
+                                <label for="feedback">Any feedback you would like to give us?</label>
+                            </div>
                             <textarea class="form-control" id="feedback" rows="5" placeholder="Enter feedback here."></textarea>
                         </div>
                         <div class="submit-button">
