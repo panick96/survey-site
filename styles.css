@@ -22,17 +22,17 @@
   .slider::-webkit-slider-thumb {
     -webkit-appearance: none; /* Override default look */
     appearance: none;
-    width: 20px; /* Set a specific slider handle width */
+    width: 25px; /* Set a specific slider handle width */
     height: 15px; /* Slider handle height */
-    border-radius: 5px;
-    background: #006EB6; /* Blue background */
+    border-radius: 10px;
+    background-color: #006EB6; /* Blue background */
     cursor: pointer; /* Cursor on hover */
   }
   
   .slider::-moz-range-thumb {
-    width: 20px; /* Set a specific slider handle width */
+    width: 25px; /* Set a specific slider handle width */
     height: 15px; /* Slider handle height */
-    background: #006EB6; /* Blue background */
+    background-color: #006EB6; /* Blue background */
     cursor: pointer; /* Cursor on hover */
   }
 
