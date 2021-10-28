@@ -7,18 +7,17 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles.css">
   <link icon="icon" href="images/BYU-Idaho.jpg">
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
 
-    <div class="container-fluid">   
+    <div class="container-fluid" id="main-content">   
         <div class="row">  
 
             <div class="row justify-content-center">
                 <div class="col-xs-12" id="welcome-statement">
-                    <h1>Welcome to the BYU-I Support Center Survey!</h1>
+                    <h1>Welcome to the BYU-Idaho Support Center Survey!</h1>
                     <p>Please fill out this quick survey to tell us about your experience with us.</p>
                 </div>
             </div>
@@ -27,7 +26,7 @@
                     <form class="feedback-form">
                         <div class="form-group">
                             <div class="question-text"><p>1. How happy are you with the service you received?</p></div>
-                            <div class="radio-buttons">
+                            <div class="radio-buttons" id="question1" name="question1">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio1" value="1">
                                     <label class="form-check-label" for="question1Radio1">Very Unhappy</label>
@@ -52,7 +51,7 @@
                         </div>
                         <div class="form-group">
                             <div class="question-text"><p>2. How likely are you to reccomend us to a friend?</p></div>
-                            <div class="radio-buttons">
+                            <div class="radio-buttons" id="question2" name="question2">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
                                     <label class="form-check-label" for="question2Radio1">Very Unlikely</label>
@@ -77,7 +76,7 @@
                         </div>
                         <div class="form-group">
                             <div class="question-text"><p>3. How easy was it to solve your problem with our help?</p></div>
-                            <div class="radio-buttons">
+                            <div class="radio-buttons" id="question3" name="question3">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio1" value="1">
                                     <label class="form-check-label" for="question3Radio1">Very Difficult</label>

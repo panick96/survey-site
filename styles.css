@@ -100,7 +100,7 @@ footer{
 
 .radio-buttons{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-evenly;
     align-items: stretch;
     padding-top: 1em;
