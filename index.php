@@ -25,15 +25,15 @@
                 <div class = col-xs-12>
                     <form class="feedback-form">
                         <div class="form-group">
-                            <div class="question-text"><p>1. How happy are you with the service you received?</p></div>
+                            <div class="question-text"><p>1. How satisfied are you with the service you received?</p></div>
                             <div class="radio-buttons" id="question1" name="question1">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio1" value="1">
-                                    <label class="form-check-label" for="question1Radio1">Very Unhappy</label>
+                                    <label class="form-check-label" for="question1Radio1">Very Unsatisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio2" value="2">
-                                    <label class="form-check-label" for="question1Radio2">Unhappy</label>
+                                    <label class="form-check-label" for="question1Radio2">Unsatisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio3" value="3">
@@ -41,16 +41,16 @@
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio4" value="4">
-                                    <label class="form-check-label" for="question1Radio4">Happy</label>
+                                    <label class="form-check-label" for="question1Radio4">Satisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio5" value="5">
-                                    <label class="form-check-label" for="question1Radio5">Very Happy</label>
+                                    <label class="form-check-label" for="question1Radio5">Very Satisfied</label>
                                   </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="question-text"><p>2. How likely are you to reccomend us to a friend?</p></div>
+                            <div class="question-text"><p>2. Given the opportunity, how likely are you to reccomend us to a friend?</p></div>
                             <div class="radio-buttons" id="question2" name="question2">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
