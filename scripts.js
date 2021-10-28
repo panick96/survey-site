@@ -17,5 +17,5 @@ submitButton.onclick = function(){
   const feedbackValue = document.getElementById('feedback').value;
   
   console.log(question1Value, question2Value, question3Value, feedbackValue);
-  clearScreen.innerHTML = "<h1>Thank you for your help. Have a great day!</h1>";
+  clearScreen.innerHTML = "<h1>Thank you for your feedback!</h1>";
 }
