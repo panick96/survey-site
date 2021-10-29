@@ -29,23 +29,23 @@
                             <div class="radio-buttons" id="question1" name="question1">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio1" value="1">
-                                    <label class="form-check-label" for="question1Radio1">&nbspVery Unsatisfied</label>
+                                    <label class="form-check-label" for="question1Radio1">&nbsp&nbspVery Unsatisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio2" value="2">
-                                    <label class="form-check-label" for="question1Radio2">&nbspUnsatisfied</label>
+                                    <label class="form-check-label" for="question1Radio2">&nbsp&nbspUnsatisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio3" value="3">
-                                    <label class="form-check-label" for="question1Radio3">&nbspNeutral</label>
+                                    <label class="form-check-label" for="question1Radio3">&nbsp&nbspNeutral</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio4" value="4">
-                                    <label class="form-check-label" for="question1Radio4">&nbspSatisfied</label>
+                                    <label class="form-check-label" for="question1Radio4">&nbsp&nbspSatisfied</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question1RadioOptions" id="question1Radio5" value="5">
-                                    <label class="form-check-label" for="question1Radio5">&nbspVery Satisfied</label>
+                                    <label class="form-check-label" for="question1Radio5">&nbsp&nbspVery Satisfied</label>
                                   </div>
                             </div>
                         </div>
@@ -54,23 +54,23 @@
                             <div class="radio-buttons" id="question2" name="question2">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
-                                    <label class="form-check-label" for="question2Radio1">&nbspVery Unlikely</label>
+                                    <label class="form-check-label" for="question2Radio1">&nbsp&nbspVery Unlikely</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio2" value="2">
-                                    <label class="form-check-label" for="question2Radio2">&nbspUnlikely</label>
+                                    <label class="form-check-label" for="question2Radio2">&nbsp&nbspUnlikely</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio3" value="3">
-                                    <label class="form-check-label" for="question2Radio3">&nbspNeutral</label>
+                                    <label class="form-check-label" for="question2Radio3">&nbsp&nbspNeutral</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio4" value="4">
-                                    <label class="form-check-label" for="question2Radio4">&nbspLikely</label>
+                                    <label class="form-check-label" for="question2Radio4">&nbsp&nbspLikely</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio5" value="5">
-                                    <label class="form-check-label" for="question2Radio5">&nbspVery Likely</label>
+                                    <label class="form-check-label" for="question2Radio5">&nbsp&nbspVery Likely</label>
                                   </div>
                             </div>
                         </div>
@@ -79,23 +79,23 @@
                             <div class="radio-buttons" id="question3" name="question3">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio1" value="1">
-                                    <label class="form-check-label" for="question3Radio1">&nbspVery Difficult</label>
+                                    <label class="form-check-label" for="question3Radio1">&nbsp&nbspVery Difficult</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio2" value="2">
-                                    <label class="form-check-label" for="question3Radio2">&nbspDifficult</label>
+                                    <label class="form-check-label" for="question3Radio2">&nbsp&nbspDifficult</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio3" value="3">
-                                    <label class="form-check-label" for="question3Radio3">&nbspNeutral</label>
+                                    <label class="form-check-label" for="question3Radio3">&nbsp&nbspNeutral</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio4" value="4">
-                                    <label class="form-check-label" for="question3Radio4">&nbspEasy</label>
+                                    <label class="form-check-label" for="question3Radio4">&nbsp&nbspEasy</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio5" value="5">
-                                    <label class="form-check-label" for="question3Radio5">&nbspVery Easy</label>
+                                    <label class="form-check-label" for="question3Radio5">&nbsp&nbspVery Easy</label>
                                   </div>
                             </div>
                         </div>
