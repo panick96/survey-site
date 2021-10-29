@@ -138,6 +138,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content:left;
+    font-size: medium;
 }
 
 input[type='radio']{
