@@ -19,3 +19,5 @@ submitButton.onclick = function(){
   console.log(question1Value, question2Value, question3Value, feedbackValue);
   clearScreen.innerHTML = "<h1>Thank you for your feedback!</h1>";
 }
+
+//TODO: submitButton.onClick needs to clear the url and send a post request.

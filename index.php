@@ -50,7 +50,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="question-text"><p>2. Given the opportunity, how likely are you to reccomend us to a friend?</p></div>
+                            <div class="question-text"><p>2. Given the opportunity, how likely are you to reccommend us to a friend?</p></div>
                             <div class="radio-buttons" id="question2" name="question2">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
