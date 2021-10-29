@@ -142,3 +142,7 @@ footer{
 input[type='radio']{
     transform: scale(2);
 }
+
+input[type='radio']:checked:after {
+    background-color: #006EB6;
+}
