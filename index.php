@@ -50,7 +50,7 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="question-text"><p>2. Given the opportunity, how likely are you to reccommend us to a friend?</p></div>
+                            <div class="question-text"><p>2. If given the opportunity, how likely are you to recommend our service to a friend?</p></div>
                             <div class="radio-buttons" id="question2" name="question2">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question2RadioOptions" id="question2Radio1" value="1">
@@ -75,15 +75,15 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <div class="question-text"><p>3. How easy was it to solve your problem with our help?</p></div>
+                            <div class="question-text"><p>3. To what extent do you agree with the following statement: The BYU-I Support Center made it easy for me to handle my issue?</p></div>
                             <div class="radio-buttons" id="question3" name="question3">
                                 <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio1" value="1">
-                                    <label class="form-check-label" for="question3Radio1">&nbsp&nbspVery Difficult</label>
+                                    <label class="form-check-label" for="question3Radio1">&nbsp&nbspStrongly Disagree</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio2" value="2">
-                                    <label class="form-check-label" for="question3Radio2">&nbsp&nbspDifficult</label>
+                                    <label class="form-check-label" for="question3Radio2">&nbsp&nbspDisagree</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio3" value="3">
@@ -91,17 +91,17 @@
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio4" value="4">
-                                    <label class="form-check-label" for="question3Radio4">&nbsp&nbspEasy</label>
+                                    <label class="form-check-label" for="question3Radio4">&nbsp&nbspAgree</label>
                                   </div>
                                   <div class="form-check form-check-inline">
                                     <input class="form-check-input" type="radio" name="question3RadioOptions" id="question3Radio5" value="5">
-                                    <label class="form-check-label" for="question3Radio5">&nbsp&nbspVery Easy</label>
+                                    <label class="form-check-label" for="question3Radio5">&nbsp&nbspStrongly Agree</label>
                                   </div>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="feedback-label">
-                                <label for="feedback">Any feedback you would like to give us?</label>
+                                <label for="feedback">What else can you tell us about your experience?</label>
                             </div>
                             <textarea class="form-control" id="feedback" rows="5" placeholder="Enter feedback here."></textarea>
                         </div>
